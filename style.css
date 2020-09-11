@@ -1,0 +1,27 @@
+.inline-svg {
+  display: inline-block;
+  height: 1.15em;
+  width: 1.15em;
+  top: .15em;
+  position: relative;
+}
+
+.experience-detail {
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+  color: gray;
+}
+
+@media only screen and (min-width: 768px){
+  .experience-detail {
+    flex-direction: row;
+  }
+}
+
+.experience-detail-container {
+  margin-right: 8px;
+  display: flex;
+  justify-content: left;
+  align-items: flex-end;
+}
