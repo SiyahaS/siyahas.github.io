@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>license on Yakup TURKAN</title>
+    <title>license on Yakup TÜRKAN</title>
     <link>/tags/license/</link>
-    <description>Recent content in license on Yakup TURKAN</description>
+    <description>Recent content in license on Yakup TÜRKAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/tags/license/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Licenses</title>
       <link>/licenses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/licenses/</guid>
       <description>Thanks for all of these people/companies works I could create and share this blog.

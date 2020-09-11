@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Yakup TURKAN</title>
+    <title>Tags on Yakup TÜRKAN</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Yakup TURKAN</description>
+    <description>Recent content in Tags on Yakup TÜRKAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>aboutme</title>
       <link>/tags/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/tags/aboutme/</guid>
       <description></description>
@@ -22,7 +23,7 @@
     <item>
       <title>contact</title>
       <link>/tags/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/tags/contact/</guid>
       <description></description>
@@ -31,7 +32,7 @@
     <item>
       <title>cv</title>
       <link>/tags/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/tags/cv/</guid>
       <description></description>
@@ -40,7 +41,7 @@
     <item>
       <title>license</title>
       <link>/tags/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/tags/license/</guid>
       <description></description>
@@ -49,7 +50,7 @@
     <item>
       <title>licenses</title>
       <link>/tags/licenses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/tags/licenses/</guid>
       <description></description>
@@ -58,7 +59,7 @@
     <item>
       <title>resume</title>
       <link>/tags/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
       
       <guid>/tags/resume/</guid>
       <description></description>

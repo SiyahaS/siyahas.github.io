@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yakup TÜRKAN</title>
+    <link>/tr/tags/</link>
+    <description>Recent content in Tags on Yakup TÜRKAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cv</title>
+      <link>/tr/tags/cv/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hakkımda</title>
+      <link>/tr/tags/hakk%C4%B1mda/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/tags/hakk%C4%B1mda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iletişim</title>
+      <link>/tr/tags/ileti%C5%9Fim/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/tags/ileti%C5%9Fim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>license</title>
+      <link>/tr/tags/license/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/tags/license/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>licenses</title>
+      <link>/tr/tags/licenses/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/tags/licenses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>özgeçmiş</title>
+      <link>/tr/tags/%C3%B6zge%C3%A7mi%C5%9F/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/tags/%C3%B6zge%C3%A7mi%C5%9F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

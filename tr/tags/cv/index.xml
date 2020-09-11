@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cv on Yakup TÜRKAN</title>
+    <link>/tr/tags/cv/</link>
+    <description>Recent content in cv on Yakup TÜRKAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tr/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hakkımda</title>
+      <link>/tr/hakkimda/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/tr/hakkimda/</guid>
+      <description>Kişisel Bilgiler Merhaba ben Yakup. Yaklaşık 2 sene boyunca full-stack developer olarak çalıştım. Oyun geliştirmeyi severim ve oyun geliştirme yönünde kariyerime yol vermeye çalışıyorum. Aşağıda iletişim ve kariyer bilgilerimi bulabilirsiniz. Yakup TÜRKAN  İletişim Bilgileri    contact@yakupturkan.com.tr    @mustbefilled    yakup-türkan     Ümraniye/İstanbul    Kariyer Yazılım Geliştirici    Şubat 2019 - Temmuz 2020      1 year 6 months     Infonal      Kozyatağı/İstanbul    Birçok PLSQL Java dönüşüm projelerinde ve C# Java dönüşüm projelerinde çalıştım.</description>
+    </item>
+    
+  </channel>
+</rss>
