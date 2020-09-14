@@ -1,36 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yakup TÜRKAN</title>
-    <link>/tr/</link>
-    <description>Recent content on Yakup TÜRKAN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="/tr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hakkımda</title>
-      <link>/tr/hakkimda/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
-      
-      <guid>/tr/hakkimda/</guid>
-      <description>Kişisel Bilgiler Merhaba ben Yakup. Yaklaşık 2 sene boyunca full-stack developer olarak çalıştım. Oyun geliştirmeyi severim ve oyun geliştirme yönünde kariyerime yol vermeye çalışıyorum. Aşağıda iletişim ve kariyer bilgilerimi bulabilirsiniz. Yakup TÜRKAN  İletişim Bilgileri    contact@yakupturkan.com.tr    @mustbefilled    yakup-türkan     Ümraniye/İstanbul    Kariyer Yazılım Geliştirici    Şubat 2019 - Temmuz 2020      1 year 6 months     Infonal      Kozyatağı/İstanbul    Birçok PLSQL Java dönüşüm projelerinde ve C# Java dönüşüm projelerinde çalıştım.</description>
-    </item>
-    
-    <item>
-      <title>Lisanslar</title>
-      <link>/tr/lisanslar/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate>
-      
-      <guid>/tr/lisanslar/</guid>
-      <description>Bu sitenin yapımında kullandığım aşağıdaki insanlara/şirketlere teşekkürlerimi sunarım.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yakup TÜRKAN</title><link>/tr/</link><description>Recent content on Yakup TÜRKAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0300</lastBuildDate><atom:link href="/tr/index.xml" rel="self" type="application/rss+xml"/><item><title>Hakkımda</title><link>/tr/hakkimda/</link><pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate><guid>/tr/hakkimda/</guid><description>Kişisel Bilgiler Merhaba ben Yakup. Yaklaşık 2 sene boyunca full-stack developer olarak çalıştım. Oyun geliştirmeyi severim ve oyun geliştirme yönünde kariyerime yol vermeye çalışıyorum. Aşağıda iletişim ve kariyer bilgilerimi bulabilirsiniz. Yakup TÜRKAN İletişim Bilgileri contact@yakupturkan.com.tr @mustbefilled yakup-türkan Ümraniye/İstanbul Kariyer Yazılım Geliştirici Şubat 2019 - Temmuz 2020 1 year 6 months Infonal Kozyatağı/İstanbul Birçok PLSQL Java dönüşüm projelerinde ve C# Java dönüşüm projelerinde çalıştım.</description></item><item><title>Lisanslar</title><link>/tr/lisanslar/</link><pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate><guid>/tr/lisanslar/</guid><description>Bu sitenin yapımında kullandığım aşağıdaki insanlara/şirketlere teşekkürlerimi sunarım.
 Hugo Hugo &amp;ldquo;Apache 2.0 License&amp;rdquo; altındadır.
 FontAwesome FontAwesome çifte lisans kullanır, her ikiside aynı anda. Lisanslar için: Public License ve Creative Commons 4.0
-panr Tarafından Terminal Teması Terminal Teması MIT License altındadır.</description>
-    </item>
-    
-  </channel>
-</rss>
+panr Tarafından Terminal Teması Terminal Teması MIT License altındadır.</description></item><item><title>Test Konusu</title><link>/tr/blog/test/</link><pubDate>Fri, 11 Sep 2020 00:00:00 +0300</pubDate><guid>/tr/blog/test/</guid><description>Test Konusu Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed molestie elit. Mauris scelerisque quam ipsum, nec euismod justo rhoncus congue. Etiam non ipsum sed ante consectetur tincidunt pulvinar cursus augue. Morbi consequat ligula id felis sagittis convallis. Morbi dignissim mi orci, sed tempus velit suscipit ac. Suspendisse potenti. Aliquam ultrices vestibulum purus eget tincidunt. Mauris auctor tellus enim, at rutrum mi laoreet nec.
+Donec blandit, velit vitae dignissim ultricies, odio neque rutrum nisi, sit amet facilisis dui ipsum quis turpis.</description></item></channel></rss>
